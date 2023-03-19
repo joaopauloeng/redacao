@@ -40,12 +40,12 @@ footer{
 
 footer a { 
     display:flex;
-    justify-content:space-between;
+    justify-content:center;
     margin: 20 px;
 }
 footer p { 
     display:flex;
-    justify-content:space-between;
+    justify-content:center;
     margin-top: 30 px;
     text-align:justify;
  }
