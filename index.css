@@ -41,6 +41,7 @@ footer a {
    margin: 20 px;
 }
 footer p { 
+    display:flex;
     margin-top: 30 px;
     text-align: center;
  }
