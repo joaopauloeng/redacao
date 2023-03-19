@@ -43,7 +43,7 @@ footer a {
 footer p { 
     display:flex;
     margin-top: 30 px;
-    text-align: center;
+    text-align:justify;
  }
 
  .container {
